@@ -1,3 +1,20 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF9A8A&height=200&section=header&text=Lotte%20On&fontSize=90)
+
+![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![js](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![js](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+# Lotte On
+LotteOn 프로젝트
+
 # LotteON1
 
 0.0.1-SNAPSHOT
@@ -46,7 +63,7 @@
 - product : 상품 주문 화면 및 주문하기 버튼 구현
 - admin : 관리자 상품등록 및 데이터베이스 삽입 구현
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF9A8A&height=200&section=footer&text=&fontSize=90)
 
 
 
