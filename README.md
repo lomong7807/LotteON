@@ -1,3 +1,5 @@
+# 🛒 e-commerce 쇼핑몰 Lotte On
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9A8A&height=200&section=header&text=Lotte%20On&fontSize=90)
 
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,10 +13,44 @@
 ![js](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-# Lotte On
-LotteOn 프로젝트
 
-# LotteON1
+
+## 프로젝트 소개
+
+- Lotte On은 물건을 보고, 구매할 수 있는 쇼핑몰입니다.
+- 하나의 업체에서만 상품을 판매하는게 아닌 입점된 다양한 업체들의 제품을 찾아보고 골라서 구매할 수 있습니다.
+- 검색을 통해 원하는 상품을 찾아볼 수 있습니다.
+- 고민중인 상품은 장바구니에 담아 편리하게 관리할 수 있습니다.
+
+<br>
+
+## 프로젝트에서의 내 역할
+
+- **팀장**
+  - git 관리, 팀원과의 소통
+- **상품**
+  - 장바구니, 구매, 검색
+- **기능**
+  - 상품 상세 페이지, 장바구니 담기, 단일 상품 구매, 장바구니 상품 구매, 상품 검색, 상품 세분화하여 검색
+
+<br>
+
+## 개발 기간
+
+- 전체 개발 기간 : 2023-10-04 ~ 2023-11-30
+- 설계 및 UI 구현 : 2023-10-04 ~ 2023-10-15
+- 기능 구현 : 2023-10-12 ~ 2023-11-30
+
+<br>
+
+## 작업 관리
+- GitHub Projects와 Slack을 사용하여 진행 상황을 공유했습니다.
+- 아침엔 한번, 저녁에 한번 팀원들과 작업한 내용을 서로 공유하고, 작업 순서와 방향성에 대한 고민을 나눴습니다.
+- 프로젝트의 병합은 매일 이루어졌고, 배포는 주에 1번씩 버전 업을 하며 하였습니다.
+
+<br>
+
+## 기타 내용 : version별 구현 현황
 
 0.0.1-SNAPSHOT
 - 프로젝트 구조 설계
