@@ -85,6 +85,14 @@
 
 ![productPay2](https://github.com/user-attachments/assets/fd36a974-0d31-45a5-8f3b-2421fabb0ad8)
 
+<br>
+
+## 장바구니로 구매
+
+![locationCart](https://github.com/user-attachments/assets/5139bb90-005b-4864-8591-67865a1bc8c8)
+
+
+
 ## version 별 구현 현황
 
 #### 0.0.1-SNAPSHOT
