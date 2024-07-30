@@ -93,6 +93,8 @@
 
 ![deleteCart](https://github.com/user-attachments/assets/663f0cba-43a4-4f24-8a12-9bbbbf9e6346)
 
+![payCart](https://github.com/user-attachments/assets/c0354d78-48f7-43f6-8c01-6b4a5770c048)
+
 <br>
 
 ## version 별 구현 현황
