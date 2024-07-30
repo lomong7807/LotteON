@@ -53,7 +53,8 @@
 ## main
 ![main](https://github.com/user-attachments/assets/9711665c-c56a-4b73-9baf-c40625402b43)
 
-
+## 상품 상세
+![상품 상세](https://github.com/user-attachments/assets/667d9c1c-c5fa-485b-8029-7dc58317724e)
 
 ## version 별 구현 현황
 
