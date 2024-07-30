@@ -79,6 +79,10 @@
 
 <br>
 
+## 상품 구매
+
+![productPay](https://github.com/user-attachments/assets/368e294f-1397-44ee-a1be-1dce871e8960)
+
 ## version 별 구현 현황
 
 #### 0.0.1-SNAPSHOT
