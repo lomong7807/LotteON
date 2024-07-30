@@ -91,7 +91,9 @@
 
 ![locationCart](https://github.com/user-attachments/assets/5139bb90-005b-4864-8591-67865a1bc8c8)
 
+![deleteCart](https://github.com/user-attachments/assets/663f0cba-43a4-4f24-8a12-9bbbbf9e6346)
 
+<br>
 
 ## version 별 구현 현황
 
