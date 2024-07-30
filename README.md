@@ -103,6 +103,10 @@
 
 <br>
 
+## 검색
+
+![search1](https://github.com/user-attachments/assets/374308d1-7a6a-4483-ab2c-4665916f23f7)
+
 ## version 별 구현 현황
 
 #### 0.0.1-SNAPSHOT
