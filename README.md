@@ -13,7 +13,7 @@
 ![js](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-
+![LotteOn](https://github.com/user-attachments/assets/0b356b7b-4e64-40fe-a0d9-8bcde278015c)
 
 ## 프로젝트 소개
 
