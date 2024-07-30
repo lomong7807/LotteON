@@ -117,6 +117,10 @@
 
 ![search3](https://github.com/user-attachments/assets/57beb794-89ca-4ecf-9500-549d47ff509d)
 
+### 조건 검색(카테고리)
+
+![search4](https://github.com/user-attachments/assets/ec640ade-517f-43ee-b4b4-0cd57df84d1a)
+
 ## version 별 구현 현황
 
 #### 0.0.1-SNAPSHOT
