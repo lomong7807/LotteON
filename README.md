@@ -89,9 +89,15 @@
 
 ## 장바구니로 구매
 
+### 장바구니 담아서 장바구니로 바로 이동
+
 ![locationCart](https://github.com/user-attachments/assets/5139bb90-005b-4864-8591-67865a1bc8c8)
 
+### 선택 삭제
+
 ![deleteCart](https://github.com/user-attachments/assets/663f0cba-43a4-4f24-8a12-9bbbbf9e6346)
+
+### 선택 구매
 
 ![payCart](https://github.com/user-attachments/assets/c0354d78-48f7-43f6-8c01-6b4a5770c048)
 
