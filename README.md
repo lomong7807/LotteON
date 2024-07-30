@@ -83,6 +83,8 @@
 
 ![productPay1](https://github.com/user-attachments/assets/42cbb674-9db7-42cd-974b-4b232d2c2712)
 
+![productPay2](https://github.com/user-attachments/assets/fd36a974-0d31-45a5-8f3b-2421fabb0ad8)
+
 ## version 별 구현 현황
 
 #### 0.0.1-SNAPSHOT
