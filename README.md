@@ -105,7 +105,13 @@
 
 ## 검색
 
+### 기본 검색
+
 ![search1](https://github.com/user-attachments/assets/374308d1-7a6a-4483-ab2c-4665916f23f7)
+
+### 검색 결과 구분별 정렬
+
+![search2](https://github.com/user-attachments/assets/a10eec5d-20a0-48f9-81ce-1265bdbc7dcd)
 
 ## version 별 구현 현황
 
