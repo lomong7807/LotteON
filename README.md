@@ -65,6 +65,14 @@
 
 ![sideMenu](https://github.com/user-attachments/assets/4fd1c624-c943-4bf0-991a-275888de4a0e)
 
+<br>
+
+## 상품 목록
+
+![상품list](https://github.com/user-attachments/assets/a3c25b65-dea2-4b1b-b283-9747b05c18d2)
+
+<br>
+
 ## version 별 구현 현황
 
 #### 0.0.1-SNAPSHOT
