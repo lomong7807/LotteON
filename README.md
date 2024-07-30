@@ -73,6 +73,12 @@
 
 <br>
 
+## 장바구니 담기
+
+![cart담기](https://github.com/user-attachments/assets/9cf021cb-5f39-4f79-8e9a-c6bdd3356dde)
+
+<br>
+
 ## version 별 구현 현황
 
 #### 0.0.1-SNAPSHOT
